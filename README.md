@@ -45,15 +45,11 @@ npm run lint
 ## Local development
 
 1. Install the [AEM CLI](https://github.com/adobe/helix-cli):
-
    ```bash
    npm install -g @adobe/aem-cli
    ```
-
 2. Start the local proxy:
-
    ```bash
    aem up
    ```
-
 3. Open http://localhost:3000 in your browser.
